@@ -1,0 +1,23 @@
+{
+  "name": "mocha-ivy-reporter",
+  "version": "1.0.0",
+  "description": "A Mocha reporter for Ivy code tasks.",
+  "main": "lib/ivy-reporter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IvyApp/mocha-ivy-reporter.git"
+  },
+  "keywords": [
+    "mocha",
+    "reporter"
+  ],
+  "author": "Tyler Hunt <tyler@tylerhunt.com> (http://tylerhunt.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvyApp/mocha-ivy-reporter/issues"
+  },
+  "homepage": "https://github.com/IvyApp/mocha-ivy-reporter"
+}
